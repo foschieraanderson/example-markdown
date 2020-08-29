@@ -12,24 +12,29 @@
 
 ## CONTRAST
 
-*Itálico* ou _Itálico_
-**Negrito** ou __Negrito__
+*Itálico* | _Itálico_
+
+**Negrito** | __Negrito__
+
 ~~Tachado~~
+
 **_Negrito e Itálico_**
 
 ## ORDERED LIST
 
-1. Example 1
-2. Example 2
-3. Example 3
+1. Exemplo 1
+2. Exemplo 2
+3. Exemplo 3
 
 ## UNORDERED LIST
 
-- Example 1
-- Example 2
+- Exemplo 1
+- Exemplo 2
+    - Exemplo 3
+    - Exemplo 4
 
-* Example 3
-* Example 4
+* Exemplo 5
+* Exemplo 6
 
 ## LINKS
 
@@ -68,7 +73,9 @@ def sum(n1, n2):
 
 ## IMAGES AND GIFS
 
-![Markdown](/assets/markdown.jpg)
+![Image Markdown](/assets/markdown.jpg)
+
+![Gif Markdown](/assets/gif_markdown.gif)
 
 ## EMOJIS
 
